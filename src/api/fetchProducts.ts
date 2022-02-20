@@ -1,4 +1,4 @@
-import { httpClient } from '../helpers/api'
+import { httpClient } from 'helpers/api'
 
 export async function fetchProducts() {
   const url = '/products'
