@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hoka One One Bondi X",
+      "description": "Chaussures de course, edition limitée - jaune/blanc",
+      "brand": "Hoka One One",
+      "price": 29.99,
+      "stock": {
+        "S": 5,
+        "M": 20,
+        "L": 8,
+        "XL": 0
+      }
+    },
+    {
+      "id": 2,
+      "name": "Adidas Air",
+      "description": "Sneakers hommes",
+      "brand": "Adidas",
+      "price": 65,
+      "stock": {
+        "S": 0,
+        "M": 10,
+        "L": 29,
+        "XL": 3
+      }
+    }
+  ]
+}
